@@ -1,0 +1,18 @@
+import React from 'react';
+
+export default function App() {
+  return (
+    <div style={{
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+      height: '100vh',
+      backgroundColor: '#000',
+      color: '#fff',
+      fontSize: '3rem',
+      fontFamily: 'sans-serif'
+    }}>
+      Hello World
+    </div>
+  );
+}
